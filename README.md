@@ -1,4 +1,4 @@
-# CIT-hometask-Recomendation-System
+# CIT-hometask-Recommendation-System
 # USER - 16
 
 Рекомендательная система для подбора фильмов.
